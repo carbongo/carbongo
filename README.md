@@ -1,6 +1,6 @@
 # Hi, I'm Georgii 👋
 
-**Indie Game & Front-end Developer**  
+**Indie Game & Frontend Developer**  
 
 
 ## 🌌 About Me
