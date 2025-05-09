@@ -3,7 +3,7 @@
 - [Personal webiste](https://www.carbongo.space)
 - [GitHub](https://github.com/carbongo)
 - [LinkedIn](https://www.linkedin.com/in/carbongo)
-- [Twitter / X](https://x.com/carbongo1643)
+- [Twitter / X](https://x.com/carbongo_space)
 
 ## 🖥️ Projects
 
